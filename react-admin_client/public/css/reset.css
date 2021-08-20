@@ -1,0 +1,29 @@
+*{background-color: transparent; font-size: inherit;color: inherit;}
+
+html,body{font-family: "汉仪旗黑"; font-size: 14px; color: #333; background: #f7f7f7;}
+
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,menu,nav,section{margin: 0;padding: 0;list-style-type: none;border: none;outline: none;}
+
+a{text-decoration: none;color: #333; outline: 0;}
+
+li{list-style: none;}
+
+img{vertical-align: top;/*display:block;*/ border: none;}
+
+input,area{outline:none;}
+
+i,em{font-style: normal;}
+
+h1,h2,h4,h5,h6,h3,b,strong{font-weight: normal;}
+
+table{border-collapse: collapse;}
+
+.clear:after{content:"."; display: block; clear: both; height: 0; visibility: hidden;}
+
+.fl{float:left;}
+
+.fr{float:right;}
+
+.border{border:none!important;background: none!important;}
+
+main, section, nav, article, aside, header, footer, address {display: block;}
